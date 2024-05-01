@@ -1,7 +1,7 @@
 # dbms
 
 
--- Insert a single record into the dept table. 
+3.1 Insert a single record into the dept table. 
 ```
 create table dept(
 dept_id int ,
